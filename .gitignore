@@ -28,3 +28,4 @@ out.txt
 *.project
 \target
 *.settings
+/bin/
